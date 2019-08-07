@@ -1,0 +1,87 @@
+.DS_Store
+node_modules
+/dist
+/deploy
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+package-lock.json
+
+
+.DS_Store
+node_modules
+/dist
+#/src/configFirebase.js
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+yarn.lock
+package-lock.json
+firebase-debug.log
+
+
+# firebase specific ignore file
+# COMMENT THESE FOR NOW
+#**/node_modules/*
+#**/.firebaserc
+#*/npm-debug.log
+#lerna-debug.log
+#*~
+#service-account-credentials.json
+#**/package-lock.json
+#**/secrets.json
+#**/firebase-debug.log
+#**/node_modules
+#**/bower_components
+#**/*.bak
+#.firebaserc
+#/.vscode
+#/coverage
+#/.nyc_output
+#npm-debug.log
+#.npmrc
+#*.iml
+#*.tgz
+#scripts/*.json
+#lib/
+#.npm
+#.tmp
+#.vscode/
+#coverage
+#firebase-functions-*.tgz
+#integration_test/.firebaserc
+#integration_test/*.log
+#integration_test/functions/firebase-functions.tgz
+#integration_test/functions/package.json
+#lib
+#typings

@@ -1,0 +1,28 @@
+{
+  "name": "newco_cofundie_uploader_wip",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.2.0",
+    "bootstrap": "^4.1.3",
+    "firebase": "^6.1.1",
+    "core-js": "^2.6.5",
+    "register-service-worker": "^1.5.2",
+    "vue": "^2.6.10"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.0.0-rc.10",
+    "@vue/cli-plugin-eslint": "^3.0.0-rc.10",
+    "@vue/cli-plugin-pwa": "^3.0.0-rc.10",
+    "@vue/cli-service": "^3.0.0-rc.10",
+    "@vue/eslint-config-standard": "^3.0.0-rc.10",
+    "node-sass": "^4.9.2",
+    "sass-loader": "^7.1.0",
+    "vue-template-compiler": "^2.5.16"
+  }
+}
